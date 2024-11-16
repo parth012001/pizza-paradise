@@ -1,8 +1,44 @@
-# React + Vite
+# 🍕 Pizza Paradise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive pizza delivery web application built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+![Pizza Paradise Screenshot](https://your-screenshot-url.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- **User Authentication**
+  - Email & Password login/signup
+  - Remember me functionality
+  - Protected routes
+  - User profile management
+
+- **Pizza Ordering System**
+  - Browse menu with different pizza categories
+  - Customize pizza size
+  - Add/remove items from cart
+  - Adjust quantities in cart
+  - Real-time price calculation
+
+- **Shopping Cart**
+  - Persistent cart data
+  - Dynamic price updates
+  - Remove items
+  - Quantity adjustments
+  - Size modifications
+
+- **Responsive Design**
+  - Mobile-first approach
+  - Seamless experience across all devices
+  - Interactive UI elements
+  - Smooth animations
+
+## 🛠️ Technologies Used
+
+- **Frontend Framework:** React
+- **Styling:** Tailwind CSS
+- **Icons:** Heroicons
+- **Routing:** React Router
+- **State Management:** React Context
+- **Build Tool:** Vite
+
+
